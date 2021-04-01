@@ -1,12 +1,3 @@
-teams:
-  w3dt-stewards:
-    members:
-      - aschmahmann
-      - biglep
-      - lidel
-      - stebalien
-      - warpfork
-      
 repositories:
   default:
     teams:
