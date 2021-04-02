@@ -1,4 +1,12 @@
+teams:
+  w3dt-stewards:
+    members:
+      - aschmahmann
+      - BigLep
+      - Stebalien
+      - warpfork
+
 repositories:
   default:
     teams:
-      w3dt-stewards: Admin
+      w3dt-stewards: admin
